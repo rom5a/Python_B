@@ -21,4 +21,5 @@ print(my_sting.replace("Roman","Python"))
 
 # 5 pos4itat koli4sto bukv v storke
 
+print(my_sting.count("m"))
 
